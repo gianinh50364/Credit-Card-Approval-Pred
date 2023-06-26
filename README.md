@@ -6,10 +6,10 @@ You can find the notebook (with visualization) [here](https://nbviewer.org/githu
 The objective of credit card approval prediction is to develop a model that can accurately predict whether a credit card application should be approved or rejected based on various features and applicant information. The aim is to automate the decision-making process and assist financial institutions in making informed and consistent credit card approval decisions.
 
 ## Method used
-* Explodatory data analysis
+* Exploratory data analysis
 * Univariate analysis
 * Bivariate analysis
-* Model deployment
+* Machine learning algorithms
 
 ## Conclusion
 
