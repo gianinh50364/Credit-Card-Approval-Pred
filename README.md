@@ -1,5 +1,5 @@
 # Credit-Card-Approval-Pred
-Data source: [Credit card approval prediction with Random forest classifier](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+Data source: [Credit card approval prediction with Random forest classifier](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
 You can find the notebook at: 
 ## Problems
 The objective of credit card approval prediction is to develop a model that can accurately predict whether a credit card application should be approved or rejected based on various features and applicant information. The aim is to automate the decision-making process and assist financial institutions in making informed and consistent credit card approval decisions.
